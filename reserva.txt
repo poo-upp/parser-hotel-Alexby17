@@ -1,0 +1,15 @@
+Nombre del cliente
+Alejandro Loeza Chan
+
+correo
+loezaalejandro@gmail.com
+
+numero de noches
+5
+
+fecha inicio
+10-12-2025
+
+----Habitaciones-----
+habitacion doble
+----Habitaciones-----
